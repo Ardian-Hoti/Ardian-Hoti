@@ -4,7 +4,7 @@ Hi there 👋, I'm Ardian Hoti!<br>I'm a passionate full-stack developer with a 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardian-hoti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardian-hoti) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white)](https://www.ardian.website)
 
 # 💻 Tech Stack:
 
